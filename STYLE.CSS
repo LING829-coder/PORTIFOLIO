@@ -28,13 +28,13 @@ header p {
 }
 /* Profile Picture */
 header .profile-pic {
-    width: 200px;
+    width: 150px;
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid white;
+    border: 2px solid white;
     margin: 1rem auto;
-    display: rectangular;
+    
 }
 /* Navigation Bar */
 nav {
